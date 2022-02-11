@@ -1,4 +1,4 @@
-<img url="http://admqr.ce04.com/github"></img>
+<img src="http://admqr.ce04.com/github"></img>
 # demo
 
 - 1. 下载微信小程序客户端
